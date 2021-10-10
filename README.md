@@ -91,7 +91,8 @@ here is the architecture: 0.77
 [KerasTuner](https://keras.io/guides/keras_tuner/) is used to tune hyper params of the USE model. As it turns out best units in a dense layer is 384.
 
 ### Train Full and Make prediction on test set
-**result: 0.81949 on public leaderboard**
+**result: 0.81949 on public leaderboard** 
+![combined_model_architecture](outputs_pics/6.jpg)
 
 ## Future Work and Model improvement:
 - dataset cleaning
