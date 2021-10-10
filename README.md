@@ -29,7 +29,7 @@ Important packages are installed, some useful already [prepared funtions](https:
 - In this part I just removed repetitive puntuation. For example:  "????" -> "?".
 - also extra links, non-asci characters and extra spaces are removed.
 - Some of the examples are shown bellow:
-![original vs cleaned text](1.jpg)
+![original vs cleaned text](outputs_pics/1.jpg)
 
 ### 4. Feature Engineering
 in this part some additional numerical features are generated, however not all the models are using this data.
